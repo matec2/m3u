@@ -16,32 +16,33 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 
 
+##### 🔴 -- Canais HBO -- 🔴 #####
 
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="HBO Signatureᴴᴰ.br" tvg-name="HBO Signatureᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="HBO Signatureᴴᴰ",HBO Signatureᴴᴰ
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31473
-
-#EXTINF:-1 tvg-name="" tvg-id="HBO.br" group-title="Canais | Abertos" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBO 🇧🇷 
+#EXTINF:-1 tvg-id="HBOᴴᴰ.br" tvg-name="HBOᴴᴰ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg" group-title="Canais | HBO", HBOᴴᴰ
 http://177.105.239.34:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="HBO.br" group-title="Canais | Abertos" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg",HBO 🇧🇷 🟡
+#EXTINF:-1 tvg-id="HBOᴴᴰ [Alt 1].br" tvg-name="HBOᴴᴰ [Alt 1]" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg" group-title="Canais | HBO", HBOᴴᴰ [Alt 1]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31465
 
-#EXTINF:-1 tvg-name="" tvg-id="HBOPlus.br" group-title="Canais | Abertos" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png",HBO 2 🇧🇷🟡
+#EXTINF:-1 tvg-id="HBO Plusᴴᴰ.br" tvg-name="HBO Plusᴴᴰ" tvg-logo="https://seeklogo.com/images/H/hbo-plus-logo-E8E9BF8A5F-seeklogo.com.png" group-title="Canais | HBO", HBO Plusᴴᴰ
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31460
 
-#EXTINF:-1 tvg-id="HBOFamily.br" group-title="Canais | Abertos" tvg-logo="https://imgur.com/2dINPFY.png",HBO Family 🟡
+#EXTINF:-1 tvg-id="HBO Familyᴴᴰ.br" tvg-name="HBO Familyᴴᴰ" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg" group-title="Canais | HBO", HBO Falimyᴴᴰ
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31463
 
-#EXTINF:-1 tvg-id="HBOFamily.br" group-title="Canais | Abertos" tvg-logo="https://imgur.com/2dINPFY.png",HBO Family
+#EXTINF:-1 tvg-id="HBO Family [Alt 1]ᴴᴰ.br" tvg-name="HBO Familyᴴᴰ [Alt 1]" tvg-logo="https://github.com/inspirationlinks/m3u/raw/0983d8d0c2c41c12d46894af90a08da059496b47/Logos/hbo.svg" group-title="Canais | HBO", HBO Falimyᴴᴰ [Alt 1]
 https://brflu.walk-tv.com/5859/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signatureᴴᴰ.br" tvg-name="HBO Signatureᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Canais | HBO", HBO Signatureᴴᴰ
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31473
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="TelecinePremium.br" tvg-name="TELECINE PREMIUM" group-title="Canais | Abertos" tvg-logo="https://imgur.com/SGr7sdL.png",Telecine Premium
 https://brflu.walk-tv.com/5879/index.m3u8
