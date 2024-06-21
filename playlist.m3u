@@ -327,7 +327,7 @@ http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31529
 #EXTINF:-1 tvg-id="Premiere Clubes 2ᴴᴰ.br" tvg-name="Premiere Clubes 2ᴴᴰ" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | Premiere", Premiere Clubes 2ᴴᴰ
 https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Premiere Clubes 2ᴴᴰ [Alt 1].br" tvg-name="Premiere Clubes 2ᴴᴰ [Alt 1]" tvg-logo="https://imgur.com/ebNRqmy.png" group-title="Canais | Premiere", Premiere Clubes 2ᴴᴰ [Alt 1]
+#EXTINF:-1 tvg-id="Premiere Clubes 2ᴴᴰ [Alt 1].br" tvg-name="Premiere Clubes 2ᴴᴰ [Alt 1]" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | Premiere", Premiere Clubes 2ᴴᴰ [Alt 1]
 https://abc.embedmax.site/premiere2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Premiere Clubes 2ᴴᴰ [Alt 2].br" tvg-name="Premiere Clubes 2ᴴᴰ [Alt 2]" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | Premiere", Premiere Clubes 2ᴴᴰ [Alt 2]
@@ -336,30 +336,30 @@ https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes 2ᴴᴰ [Alt 3].br" tvg-name="Premiere Clubes 2ᴴᴰ [Alt 3]" tvg-logo="https://imgur.com/Sa86nNV.png" group-title="Canais | Premiere", Premiere Clubes 2ᴴᴰ [Alt 3]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31529
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | Premiere",Premiere 3 HD
+#EXTINF:-1 tvg-id="Premiere Clubes 3ᴴᴰ.br" tvg-name="Premiere Clubes 3ᴴᴰ" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | Premiere", Premiere Clubes 3ᴴᴰ
 http://185.150.190.225:16468/
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | Premiere",Premiere 3 HD [Alter]
+#EXTINF:-1 tvg-id="Premiere Clubes 3ᴴᴰ  [Alt 1].br" tvg-name="Premiere Clubes 3ᴴᴰ  [Alt 1]" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | Premiere", Premiere Clubes 3ᴴᴰ [Alt 1]
 https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | Premiere",Premiere 3 FHD
+#EXTINF:-1 tvg-id="Premiere Clubes 3ᴴᴰ  [Alt 2].br" tvg-name="Premiere Clubes 3ᴴᴰ  [Alt 2]" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | Premiere", Premiere Clubes 3ᴴᴰ [Alt 2]
 https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | Premiere",Premiere 4 HD
 https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
@@ -383,9 +383,6 @@ https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
 https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
 
 ##### 🔴 -- Canais Premiere 2 -- 🔴 #####
-
-#EXTINF:-1 tvg-id="PREMIERE3" group-title="Canais | Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 3ᴴᴰ 🇧🇷 
-https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE4" group-title="Canais | Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 4ᴴᴰ 🇧🇷 
 https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
