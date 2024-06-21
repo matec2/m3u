@@ -345,56 +345,32 @@ https://brflu.walk-tv.com/5920/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Premiere Clubes 3ᴴᴰ  [Alt 2].br" tvg-name="Premiere Clubes 3ᴴᴰ  [Alt 2]" tvg-logo="https://imgur.com/vdKC1eu.png" group-title="Canais | Premiere", Premiere Clubes 3ᴴᴰ [Alt 2]
 https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | Premiere",Premiere 4 HD
+#EXTINF:-1 tvg-id="Premiere Clubes 4ᴴᴰ.br" tvg-name="Premiere Clubes 4ᴴᴰ" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | Premiere", Premiere Clubes 4ᴴᴰ
 https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 4" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | Premiere",Premiere 4 HD [Alter]
+#EXTINF:-1 tvg-id="Premiere Clubes 4ᴴᴰ [Alt 1].br" tvg-name="Premiere Clubes 4ᴴᴰ [Alt 1]" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | Premiere", Premiere Clubes 4ᴴᴰ [Alt 1]
 https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | Premiere",Premiere 5 HD
-http://185.150.190.225:16476/
-
-#EXTINF:-1 tvg-id="PREMIERE 5 HD" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | Premiere",Premiere 5 HD [Alter]
-https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | Premiere",Premiere 6 HD
-http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
-
-#EXTINF:-1 tvg-id="PREMIERE 6" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | Premiere",Premiere 6 HD [Alter]
-https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE 7" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | Premiere",Premiere 7 HD
-https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
-
-##### 🔴 -- Canais Premiere 2 -- 🔴 #####
-
-#EXTINF:-1 tvg-id="PREMIERE4" group-title="Canais | Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 4ᴴᴰ 🇧🇷 
-https://brflu.walk-tv.com/5918/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE4" group-title="Canais | Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 4ᴴᴰ 🇧🇷 🟡
+#EXTINF:-1 tvg-id="Premiere Clubes 4ᴴᴰ [Alt 2].br" tvg-name="Premiere Clubes 4ᴴᴰ [Alt 2]" tvg-logo="https://imgur.com/n5KKEiL.png" group-title="Canais | Premiere", Premiere Clubes 4ᴴᴰ [Alt 2]
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31537
 
-#EXTINF:-1 tvg-id="PREMIERE5" group-title="Canais | Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 5ᴴᴰ 🇧🇷 
+#EXTINF:-1 tvg-id="Premiere Clubes 5ᴴᴰ.br" tvg-name="Premiere Clubes 5ᴴᴰ" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | Premiere", Premiere Clubes 5ᴴᴰ
+http://185.150.190.225:16476/
+
+#EXTINF:-1 tvg-id="Premiere Clubes 5ᴴᴰ [Alt 1].br" tvg-name="Premiere Clubes 5ᴴᴰ [Alt 1]" tvg-logo="https://imgur.com/qVVCNKG.png" group-title="Canais | Premiere", Premiere Clubes 5ᴴᴰ [Alt 1]
 https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE6" group-title="Canais | Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 6ᴴᴰ 🇧🇷 🟡
+#EXTINF:-1 tvg-id="Premiere Clubes 6ᴴᴰ.br" tvg-name="Premiere Clubes 6ᴴᴰ" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | Premiere", Premiere Clubes 6ᴴᴰ
 http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
 
-#EXTINF:-1 tvg-id="PREMIERE6" group-title="Canais | Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a2/Logo_Premiere_FC_2018.png",Premiere 6ᴴᴰ 🇧🇷 
+#EXTINF:-1 tvg-id="Premiere Clubes 6ᴴᴰ [Alt 1].br" tvg-name="Premiere Clubes 6ᴴᴰ [Alt 1]" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | Premiere", Premiere Clubes 6ᴴᴰ [Alt 1]
 https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes 6ᴴᴰ [Alt 2].br" tvg-name="Premiere Clubes 6ᴴᴰ [Alt 2]" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | Premiere", Premiere Clubes 6ᴴᴰ [Alt 2]
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
+
+#EXTINF:-1 tvg-id="Premiere Clubes 6ᴴᴰ [Alt 3].br" tvg-name="Premiere Clubes 6ᴴᴰ [Alt 3]" tvg-logo="https://imgur.com/4CAJWni.png" group-title="Canais | Premiere", Premiere Clubes 6ᴴᴰ [Alt 3]
+https://brflu.walk-tv.com/5915/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Premiere Clubes 7ᴴᴰ.br" tvg-name="Premiere Clubes 7ᴴᴰ" tvg-logo="https://imgur.com/XqTjkAw.png" group-title="Canais | Premiere", Premiere Clubes 7ᴴᴰ
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
